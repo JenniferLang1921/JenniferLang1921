@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on [KansasCityLove](https://thingstodoinkc.com)
-- 🌱 I’m currently learning next.js
-- 🤔 I’m looking for help with how to connect a good database to my react/next projects without using a cms.
+- 🌱 I’m currently learning next.js and tailwind.css
+- 🤔 I’m looking for help with how to connect a good database to my react/next projects without using a cms and using free hosting.
 - ⚡ Fun fact: I love movies about con artists.  
 
 
