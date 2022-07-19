@@ -11,6 +11,8 @@
 - ⚡ Fun fact: I love movies about con artists.  
 - ⚡ Fun fact: I will make a github header for you ~ $200. 
 
+### I would love to make a website for you, contact me for prices and terms.  jenniferlang1921@gmail.com
+
 
 <!--
 **JenniferLang1921/JenniferLang1921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
