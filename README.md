@@ -1,4 +1,4 @@
-![My Image]([https://github.com/JenniferLang1921/JenniferLang1921/blob/main/githubHeader-01.jpg](https://github.com/JenniferLang1921/JenniferLang1921/blob/main/JenniferLang-github-header.jpg))
+![alt text](https://github.com/JenniferLang1921/JenniferLang1921/blob/main/JenniferLang-github-header.jpg?raw=true)
 # Hi there, I'm Jennifer 
 ### Please take a moment to find out more about me at my portfolio [website](https://jenniferlang1921.com)
 
