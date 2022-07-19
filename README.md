@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Jennifer 
+### Please take a moment to find out more about me at my portfolio [website](https://jenniferlang1921.com)
+
+### Connect with me on [Linkedin](https://www.linkedin.com/in/jenniferlang1921/)
+
+
+- 🔭 I’m currently working on [KansasCityLove](https://thingstodoinkc.com)
+- 🌱 I’m currently learning next.js
+- 🤔 I’m looking for help with how to connect a good database to my react/next projects without using a cms.
+- ⚡ Fun fact: I love movies about con artists.  
+
 
 <!--
 **JenniferLang1921/JenniferLang1921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
