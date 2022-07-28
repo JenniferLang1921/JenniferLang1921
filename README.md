@@ -1,6 +1,6 @@
 ![alt text](https://github.com/JenniferLang1921/JenniferLang1921/blob/main/JenniferLang-github-header.jpg?raw=true)
 # Hi there, I'm Jennifer 
-### Please take a moment to find out more about me at my portfolio [website](https://jenniferlang1921.com)
+### Please take a moment to find out more about me at my portfolio [website](https://jenniferlang.site)
 
 ### Connect with me on [Linkedin](https://www.linkedin.com/in/jenniferlang1921/)
 
