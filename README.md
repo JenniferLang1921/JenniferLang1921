@@ -1,4 +1,4 @@
-![alt text](https://github.com/JenniferLang1921/JenniferLang1921/blob/main/JL_Header-01.png?raw=true)
+![alt text](https://github.com/JenniferLang1921/JenniferLang1921/blob/main/JL_Header-03.png?raw=true)
 # Hi there, I'm Jennifer 
 ### Please take a moment to find out more about me at my portfolio [website](https://jenniferlang.site)
 
